@@ -1,4 +1,4 @@
-from utils import bands_module_text_file
+import bands_module_text_file
 
 """
 This program consists of a main file (this file) that interacts with another file that is the interface
@@ -108,3 +108,4 @@ def delete_band():
 
 # --------------------------------------------------END OF FUNCTIONS----------------------------------------------------
 menu()
+
